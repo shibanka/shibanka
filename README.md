@@ -15,7 +15,9 @@ About Me:
 
 📫 Reach me on  @deyshibanka@gmail.com
 
+Skills:
 
+PYTHON / POWER BI / EXCEL / MYSQL
 
 
 <h3 align="left">Connect with me:</h3>
