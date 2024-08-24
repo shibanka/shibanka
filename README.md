@@ -1,17 +1,13 @@
 ### Hi there 👋, I am Shibanka
-#### A passionate Data analyst
-![A passionate Data analyst]
 
 
-![github-header-image](https://github.com/user-attachments/assets/6e02dba7-8561-4d1d-8cbd-bebd8bf44f8f)
-
+![github-header-image (2)](https://github.com/user-attachments/assets/4d2f90e4-4907-4e29-9d33-f67cf40fd274)
 
 
 
+About Me:
 
-I am currently doing my Bachelors in Computer Application Programme.
-
-Skills: PYTHON/ POWER BI / EXCEL/ MYSQL 
+🎓I am currently doing my Bachelors in Computer Application
 
 📝 I regularly write articles on Https://medium.com/@deyshibanka
 
