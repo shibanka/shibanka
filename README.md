@@ -3,8 +3,8 @@
 ![A passionate Data analyst]
 
 
+![github-header-image](https://github.com/user-attachments/assets/6e02dba7-8561-4d1d-8cbd-bebd8bf44f8f)
 
-![DATA ANALYST](https://github.com/user-attachments/assets/8a8ca96e-1f61-4f5c-b69b-079d2a3e7f23)
 
 
 
